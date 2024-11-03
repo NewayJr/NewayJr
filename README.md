@@ -1,9 +1,5 @@
 ## Hello mate! Neway Jr. here.👋
-
-<!--
-**NewayJr/NewayJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Makes me wonder why you came all the way here just to see me embarass myself.
 
 - 🔭 I’m currently working on ... A Private Project
 - 🌱 I’m currently learning ... Web3
