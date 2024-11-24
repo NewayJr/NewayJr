@@ -1,5 +1,5 @@
 ## Hello mate! Neway Jr. here.👋
-Makes me wonder why you came all the way here just to see me embarass myself.
+Just a guy obsessed with creativity.
 
 - 🔭 I’m currently working on ... A Private Project
 - 🌱 I’m currently learning ... Web3
