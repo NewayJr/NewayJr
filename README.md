@@ -1,5 +1,5 @@
 ## Hello mate! Neway Jr. here.👋
-Just a guy obsessed with creativity.
+Just a guy obsessed with tech.
 
 - 🔭 I’m currently working on ... A Private Project
 - 🌱 I’m currently learning ... Web3
